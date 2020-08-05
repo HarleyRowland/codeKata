@@ -1,9 +1,10 @@
-package codeKata;
+package sessions.session1;
 
 
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;
+import sessions.session1.StringCalculator;
 
 import static org.junit.Assert.assertEquals;
 

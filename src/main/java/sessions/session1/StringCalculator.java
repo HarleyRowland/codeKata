@@ -1,4 +1,4 @@
-package codeKata;
+package sessions.session1;
 
 import java.util.ArrayList;
 

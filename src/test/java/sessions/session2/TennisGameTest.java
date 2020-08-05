@@ -1,4 +1,4 @@
-package codeKata;
+package sessions.session2;
 
 import static org.junit.Assert.*;
 

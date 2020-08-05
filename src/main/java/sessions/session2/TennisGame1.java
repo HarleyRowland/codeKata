@@ -1,4 +1,4 @@
-package codeKata;
+package sessions.session2;
 
 
 public class TennisGame1 implements TennisGame {
